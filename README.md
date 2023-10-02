@@ -10,3 +10,6 @@ java -jar target/jaeger-0.0.1-SNAPSHOT.jar --spring.application.name=Service-2 -
 
 curl localhost:8080/service/path1
 
+![image](https://github.com/srss-pocs/springboot-spring-cloud-jaeger/assets/145287517/faacd175-c60a-4aa6-a0af-a8a7484f9707)
+
+
